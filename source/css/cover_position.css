@@ -1,0 +1,30 @@
+/* 文章封面圖修改 */
+
+#web_bg{
+  background-position: 50% 10%;
+}
+.recent-post-item .categoryBar .categoryBar-list .categoryBar-list-item{
+  background-position: 50% 10%;
+}
+.recent-post-item .post_cover img{
+  object-position: 50% 10%;
+}
+#aside-content .aside-list .aside-list-item .thumbnail img {
+  object-position: 50% 10%;
+}
+/* 輪播文章封面圖修改 */
+.blog-slider__item.swiper-slide-active .blog-slider__img img {
+  object-position: 50% 8%;
+}
+/* 上一篇下一篇文章封面圖位置 */
+#pagination img {
+  object-position: 50% 30%;
+}
+/* 相關文章封面圖位置 */
+.relatedPosts-list img {
+  object-position: 50% 8%;
+}
+/* 404頁面相關文章封面位置 */
+.aside-list img {
+  object-position: 50% 8%;
+}

@@ -1,0 +1,7 @@
+- class_name: 友情鏈接
+  class_desc: 朋朋們
+  link_list:
+    - name: MDCPP JUDGE
+      link: http://mdcpp.mingdao.edu.tw/
+      avatar: /img/MDCPP_LOGO.png
+      descr: MDCPP的OJ
