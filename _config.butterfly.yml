@@ -1,5 +1,5 @@
 nav:
-  logo: img/Cover_test_post.jpg #image 填入連結
+  logo: img/icon.jpg #image 填入連結
   display_title: true # 是否顯示網站標題
   fixed: false # fixed navigation bar
 subtitle: # 主頁subtitle
@@ -105,7 +105,7 @@ social:
   fab fa-github: https://github.com/a40693651 || Github || "#hdhfbb" # 支持 font-awesome v6 圖標.
   fas fa-envelope: mailto:xxxxxx@gmail.com || Email || "#000000" # 圖標名：url || 描述性文字 || color
 avatar: # 頭像
-  img: /img/Cover_test_post.jpg
+  img: /img/icon.jpg
   effect: false # 頭像會一直轉圈
 default_top_img: transparent
 cover:
@@ -215,7 +215,7 @@ waline:
   bg: # waline background
   pageview: false
   option:
-background: url(/img/top.jpg)
+background: url(/img/103304065.jpg)
 # footer是否顯示圖片背景(與top_img一致)
 footer_bg: true
 beautify: # 頁面美化，改善title, li 之前的icon，
@@ -247,4 +247,10 @@ inject:
   head:
     - <link rel="stylesheet" href="/css/transpancy.css">
     - <link rel="stylesheet" href="/css/cover_position.css">
+    - <link  rel="stylesheet" href="https//fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap">
   bottom:
+font:
+  global-font-size: 16px
+  code-font-size:
+  font-family:
+  code-font-family:
