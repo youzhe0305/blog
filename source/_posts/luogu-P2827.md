@@ -8,11 +8,11 @@ tags:
     - 提高+/省選-
 categories:
     - 洛谷
-cover: /img/106276835.jpg
+cover: /洛谷/luogu-P2827/106276835.jpg
 description: <洛谷> P2827 [NOIP2016 提高組] 蚯蚓
 ---
 
-題目: [P2827 [NOIP2016 提高組] 蚯蚓](https://www.luogu.com.cn/problem/P2827)
+## 題目: [P2827 [NOIP2016 提高組] 蚯蚓](https://www.luogu.com.cn/problem/P2827)
 
 ## 90分解:
 
