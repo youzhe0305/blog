@@ -239,8 +239,8 @@ categoryBar: # 置頂category
   column: odd # odd：3列 | even：4列
   row: 2 #显示行数，默认两行，超过行数切换为滚动显示
   message:
-    - descr: 洛谷der題目題解
-      cover: 
+    - descr:
+      cover:
   custom_css: https://npm.elemecdn.com/hexo-butterfly-categories-card@1.0.0/lib/categorybar.css
 
 inject:
