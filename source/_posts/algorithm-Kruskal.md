@@ -22,7 +22,7 @@ Kruskal，克魯斯克爾演算法，用貪心的方式，找出一張圖裡面�
 
 ## 示範code:
 (以上圖作為範例輸入輸出)
-時間複雜度$O(NlogN)$
+時間複雜度$O(MlogM)$
 ```c++
 
 #include<bits/stdc++.h>
@@ -43,12 +43,28 @@ void init(){
 }
 
 int find(int v){
-	return p[v] == v ? v : p[v] = find(v);
+	return p[v] == v ? v : p[v] = find(p[v]);
 }
 
 void uni(int a, int b){
 	int pa = find(a), pb = find(b);
 	p[pa] = pb;
+}
+
+int kruskal(){
+
+	int ans = 0;
+	sort(vec.begin(),vec.end());
+	for(pip i:vec){
+		int a = i.S.F, b = i.S.S;
+		if(find(a)==find(b)) continue;// 在同個集合下，也就是成環，試著加入重複點
+		uni(a,b);
+		ans += i.F; // 確定加入最小生成樹後，把權重加入答案
+	// 當所有邊都跑完，就可以確定所有點都都被加進去
+	}
+
+	return ans;
+
 }
 
 signed main(){
@@ -60,16 +76,8 @@ for(int i=1;i<=m;i++){
 	cin>>a>>b>>w;
 	vec.push_back({ w, make_pair(a, b) }); // 加入邊(權重放第一位，才能排序)
 }
-sort(vec.begin(),vec.end());
-for(pip i:vec){
-	int a = i.S.F, int b = i.S.S;
-	if(find(a)==find(b)) continue;// 在同個集合下，也就是成環，試著加入重複點
-	uni(a,b);
-	ans += i.F; // 確定加入最小生成樹後，把權重加入答案
-    // 當所有邊都跑完，就可以確定所有點都都被加進去
-}
 
-cout<<ans<<endl;
+cout<<kruskal()<<endl;
 
 }
 
