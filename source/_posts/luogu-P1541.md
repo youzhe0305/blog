@@ -6,6 +6,7 @@ tags:
     - dp
 categories:
     - 洛谷
+    - 普及+/提高
 cover: /洛谷/luogu-P1541/107025668.jpg
 description: <洛谷> P1541 [NOIP2010 提高組] 烏龜棋
 ---

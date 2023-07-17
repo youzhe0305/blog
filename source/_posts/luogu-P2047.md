@@ -3,7 +3,7 @@ title: <洛谷> P2047 [NOI2007] 社交網路
 top_img: transparent
 date: 2023-05-22 13:30:00
 tags: 
-	- 圖論
+    - 圖論
     - 最短路
     - Floyd-Warshall
     - 普及+/提高
