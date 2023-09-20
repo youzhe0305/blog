@@ -1,5 +1,5 @@
 ---
-title: algorithm-KMP
+title: <演算法教學> KMP字串演算法
 top_img: transparent
 date: 2023-09-20 21:40:29
 tags:
