@@ -1,5 +1,5 @@
 ---
-title: 2023 Fall Bamboofox社課題解 Week 1
+title: 2023 Fall Bamboofox社課題解 Week 2
 top_img: transparent
 date: 2023-10-13 01:17:35
 tags:
