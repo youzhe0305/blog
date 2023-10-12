@@ -23,10 +23,10 @@ description: 放火直播被攻擊的手法解析
 這個方式的原理來自於unicode本身的特性，unicode裡面，有些東西是不占任何格子的，像是[附加符號](https://zh.wikipedia.org/zh-tw/%E7%B5%84%E5%90%88%E9%99%84%E5%8A%A0%E7%AC%A6%E8%99%9F)(◌̀)之類的，因為他是疊在另一個字上的，所以不占任何空間，當把一堆附加符號疊在一起時，還是長得跟只疊一個一樣。
 
 示例如下，兩個點占了10000多字:
-![](雜談/just-talk-LouisStreamAttack/word_num_cal.png)
+![](/雜談/just-talk-LouisStreamAttack/word_num_cal.png)
 
 在直播平台只會顯示這個(這個包了40字):
-![](雜談/just-talk-LouisStreamAttack/attack_picture.png)
+![](/雜談/just-talk-LouisStreamAttack/attack_picture.png)
 
 不過這個東西只是看起來跟一個一樣而已，如果平台有做字數計算，就可以看出這個東西其實占了超大的空間
 

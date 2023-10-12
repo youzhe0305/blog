@@ -3,6 +3,7 @@ title: 2023 Fall Bamboofox社課題解 Week 1
 top_img: transparent
 date: 2023-10-02 23:31:07
 tags:
+    - 資安
     - WebSecurity
     - Bamboofox社課題解
 categories:
