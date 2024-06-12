@@ -1,5 +1,5 @@
 ---
-title: <演算法教學> SPFA單點源最短路演算法
+title: <演算法筆記> SPFA單點源最短路演算法
 top_img: transparent
 date: 2023-05-22 17:05:22
 tags:
@@ -7,8 +7,8 @@ tags:
     - 最短路
     - SPFA
 categories:
-    - 演算法教學
-cover: 演算法教學/algorithm-SPFA/104987258.jpg
+    - 演算法筆記
+cover: img/cover/algorithm.jpg
 description: 講解關於SPFA最短路演算法的概念與實作
 ---
 
@@ -73,8 +73,5 @@ int SPFA(int v,int n){ // 以v當作起點，有n個點
 }
 
 ```
-
-封面圖來源: [伊地知 虹夏](https://www.pixiv.net/artworks/104987258)
-
 
 ---

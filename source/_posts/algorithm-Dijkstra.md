@@ -1,5 +1,5 @@
 ---
-title: <演算法教學> Dijkstra單點源最短路演算法
+title: <演算法筆記> Dijkstra單點源最短路演算法
 top_img: transparent
 date: 2023-05-22 16:59:41
 tags:
@@ -7,8 +7,8 @@ tags:
     - 最短路
     - Dijkstra
 categories:
-    - 演算法教學
-cover: 演算法教學/algorithm-Dijkstra/103214931.jpg
+    - 演算法筆記
+cover: img/cover/algorithm.jpg
 description: 講解關於Dijkstra最短路演算法的概念與實作
 ---
 
@@ -60,7 +60,5 @@ void dijkstra(int s){
     }
 
 ```
-
-封面圖來源: [虹夏](https://www.pixiv.net/artworks/103214931)
 
 ---

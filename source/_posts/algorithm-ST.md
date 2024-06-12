@@ -1,5 +1,5 @@
 ---
-title: <演算法教學> ST表資料結構
+title: <演算法筆記> ST表資料結構
 top_img: transparent
 date: 2023-07-17 17:03:21
 tags:
@@ -7,8 +7,8 @@ tags:
     - 區間
     - ST表
 categories:
-    - 演算法教學
-cover: 演算法教學/algorithm-ST/103493690.jpg
+    - 演算法筆記
+cover: img/cover/algorithm.jpg
 description: 講解關於ST表的概念與實作
 ---
 
@@ -88,7 +88,5 @@ signed main(){
 
 ```
 注意: <<的位移符號，依然遵循由左到右計算，並沒有優先，所以要括號
-
-封面圖來源: [あぐらかいてる虹夏ちゃん](https://www.pixiv.net/artworks/103493690)
 
 ---

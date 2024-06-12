@@ -1,5 +1,5 @@
 ---
-title: <演算法教學> 並查集資料結構
+title: <演算法筆記> 並查集資料結構
 top_img: transparent
 date: 2023-05-29 11:27:38
 tags:
@@ -7,8 +7,8 @@ tags:
     - 集合
     - 並查集
 categories:
-    - 演算法教學
-cover: 演算法教學/algorithm-Disjoint-Set/108535311.jpg
+    - 演算法筆記
+cover: img/cover/algorithm.jpg
 description: 講解關於並查集資料結構的概念與實作
 ---
 
@@ -59,10 +59,5 @@ void uni_inspire(int a,int b){ // 啟發式合併版本
 
 ```
 
-喔對，還有今天是虹夏的生日，都來祝他生日快樂
-
-![](/演算法教學/algorithm-Disjoint-Set/108535311.jpg)
-
-[【ぼっち・ざ・ろっく！】虹夏ちゃん誕生日おめでとうイラスト](https://www.pixiv.net/artworks/108535311)
 
 ---

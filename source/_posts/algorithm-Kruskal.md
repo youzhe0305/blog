@@ -1,5 +1,5 @@
 ---
-title: <演算法教學> Kruskal最小生成樹演算法
+title: <演算法筆記> Kruskal最小生成樹演算法
 top_img: transparent
 date: 2023-05-29 12:11:10
 tags:
@@ -7,8 +7,8 @@ tags:
     - 最小生成樹
     - Kruskal
 categories:
-    - 演算法教學
-cover: 演算法教學/algorithm-Kruskal/108513584.jpg
+    - 演算法筆記
+cover: img/cover/algorithm.jpg
 description: 講解關於Kruskal最小生成樹演算法的概念與實作
 ---
 
@@ -96,11 +96,5 @@ input:
 output:
 13
 ```
-
-喔對，還有今天是虹夏的生日，都來祝他生日快樂
-
-![](/演算法教學/algorithm-Kruskal/108513584.jpg)
-
-封面圖來源: [スーパー虹夏ちゃんまとめ](https://www.pixiv.net/artworks/108513584)
 
 ---

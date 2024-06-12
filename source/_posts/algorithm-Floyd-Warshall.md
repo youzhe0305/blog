@@ -1,5 +1,5 @@
 ---
-title: <演算法教學> Floyd-Warshall多點源最短路演算法
+title: <演算法筆記> Floyd-Warshall多點源最短路演算法
 top_img: transparent
 date: 2023-05-22 22:46:11
 tags:
@@ -7,8 +7,8 @@ tags:
     - 最短路
     - Floyd-Warshall
 categories:
-    - 演算法教學
-cover: 演算法教學/algorithm-Floyd-Warshall/106493951.jpg
+    - 演算法筆記
+cover: img/cover/algorithm.jpg
 description: 講解關於Floyd-Warshall最短路演算法的概念與實作
 ---
 
@@ -34,6 +34,5 @@ void Floyd-Warshall(){
 
 ```
 
-封面圖來源: [ん…ちょっと寂しかった……](https://www.pixiv.net/artworks/106493951)
 
 ---

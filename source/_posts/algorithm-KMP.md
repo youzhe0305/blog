@@ -1,5 +1,5 @@
 ---
-title: <演算法教學> KMP字串演算法
+title: <演算法筆記> KMP字串演算法
 top_img: transparent
 date: 2023-09-20 21:40:29
 tags:
@@ -7,8 +7,8 @@ tags:
     - Next表
     - KMP
 categories:
-    - 演算法教學
-cover: 演算法教學/algorithm-KMP/103885785.jpg
+    - 演算法筆記
+cover: img/cover/algorithm.jpg
 description: 講解關於KMP字串演算法的概念與實作
 ---
 
@@ -184,7 +184,5 @@ for(int i=0;i<str2.length();i++)
 ```
 
 參考資料:[OI Wiki](https://oi-wiki.org/string/kmp/)
-
-封面圖來源: [伊地知虹夏](https://www.pixiv.net/artworks/103885785)
 
 ---

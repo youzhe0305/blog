@@ -1,5 +1,5 @@
 ---
-title: <演算法教學> Prim最小生成樹演算法
+title: <演算法筆記> Prim最小生成樹演算法
 top_img: transparent
 date: 2023-05-29 14:27:13
 tags:
@@ -7,8 +7,8 @@ tags:
     - 最小生成樹
     - Prim
 categories:
-    - 演算法教學
-cover: 演算法教學/algorithm-Prim/1662836880839430145.jpg
+    - 演算法筆記
+cover: img/cover/algorithm.jpg
 description: 講解關於Prim最小生成樹演算法的概念與實作
 ---
 
@@ -100,11 +100,5 @@ input:
 output:
 13
 ```
-
-喔對，還有今天是虹夏的生日，都來祝他生日快樂
-
-![](/演算法教學/algorithm-Prim/1662836880839430145.jpg)
-
-封面圖來源: [伊地知虹夏生誕祭2023](https://twitter.com/KKito55/status/1662836880839430145)
 
 ---

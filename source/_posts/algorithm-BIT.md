@@ -1,5 +1,5 @@
 ---
-title: <演算法教學> BIT資料結構
+title: <演算法筆記> BIT資料結構
 top_img: transparent
 date: 2023-07-18 00:45:28
 tags:
@@ -7,8 +7,8 @@ tags:
     - 區間
     - BIT
 categories:
-    - 演算法教學
-cover: 演算法教學/algorithm-BIT/109918259.jpg
+    - 演算法筆記
+cover: img/cover/algorithm.jpg
 description: 講解關於BIT資料結構的概念與實作
 ---
 
@@ -71,6 +71,5 @@ void modify(int bit[], int x, int val){ // 直接用加的比較好寫
 
 既然我們掌握了單點修改的方法，只要對每個點做修改，就可以做到初始的建立了，複雜度: $O(NlogN)$
 
-封面圖來源: [伊地知虹夏](https://www.pixiv.net/artworks/109918259)
 
 ---
