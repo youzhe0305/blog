@@ -50,7 +50,7 @@ aside: # 首頁的側欄
       enable: false
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/youzhe0305
   card_announcement:
     enable: true
     content: 暫無公告
@@ -102,7 +102,7 @@ highlight_shrink: false # true時代碼框不展開，需點擊 '>' 打開
 code_word_wrap: false # 自動換行，防止code有橫向滾動條
 highlight_height_limit: 200 # 200px的code高度限制，超過，則必須展開才看的到全部
 social:
-  fab fa-github: https://github.com/a40693651 || Github || "#hdhfbb" # 支持 font-awesome v6 圖標.
+  fab fa-github: https://github.com/youzhe0305 || Github || "#hdhfbb" # 支持 font-awesome v6 圖標.
   fas fa-envelope: mailto:xxxxxx@gmail.com || Email || "#000000" # 圖標名：url || 描述性文字 || color
 avatar: # 頭像
   img: /img/icon.jpg
@@ -141,7 +141,7 @@ copy:
 post_copyright:
   enable: true
   decode: true
-  author_href: https://github.com/a40693651
+  author_href: https://github.com/youzhe0305
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 toc: # 側邊的目錄欄 Table of Contents
