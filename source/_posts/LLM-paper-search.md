@@ -17,7 +17,7 @@ description: 利用RAG LLM製作有最新資料庫的論文搜索機器人
 
 # Overview:
 
-此專案製作"論文綜整與檢索的Discord Bot"。透過selenium   爬蟲收集最新的論文並解析其內容。利用RAG LLM技術，以本地資料庫的形式供LLM搜索，讓LLM可以檢索出符合使用者需求敘述且足夠新的論文，最後以discord Bot的方式製作使用者介面，與使用者互動及呈現資料。
+此專案製作"論文綜整與檢索的Discord Bot"。透過selenium爬蟲收集最新的論文並解析其內容。利用RAG LLM技術，以本地資料庫的形式供LLM搜索，讓LLM可以檢索出符合使用者需求敘述且足夠新的論文，最後以discord Bot的方式製作使用者介面，與使用者互動及呈現資料。
 
 示意圖:
 ![](/Team-Project/LLM-paper-search/demo.png)

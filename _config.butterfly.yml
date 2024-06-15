@@ -20,8 +20,8 @@ subtitle: # 主頁subtitle
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - 看看下北澤大天使
-    - 好可愛
+    - 水深火熱中的資工學生
+    - 下北澤大天使好可愛
 menu:
   首頁: / || fas fa-home
   時間軸: /archives/ || fas fa-archive

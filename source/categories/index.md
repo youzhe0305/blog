@@ -5,6 +5,6 @@ type: "categories"
 description: 存放類別的地方
 ---
 
-這是分類頁
+這裡可以找到各個post的類別
 
 ---
