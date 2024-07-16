@@ -8,8 +8,8 @@ tags:
     - Crawler
     - RSS
 categories:
-    - Personal-Project
-cover: Personal-Project/newspaper-dc-bot/newspaper-UI.png
+    - Team-Project
+cover: Team-Project/newspaper-dc-bot/newspaper-UI.png
 description: 利用爬蟲、RSS獲得新聞資訊，並分類分tag，用Discord Bot定時推播
 ---
 
@@ -24,7 +24,7 @@ description: 利用爬蟲、RSS獲得新聞資訊，並分類分tag，用Discord
 - Discord Bot
 
 示意圖:
-![](/Personal-Project/newspaper-dc-bot/newspaper-UI.png)
+![](/Team-Project/newspaper-dc-bot/newspaper-UI.png)
 
 # Background
 
