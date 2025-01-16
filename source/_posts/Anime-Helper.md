@@ -71,7 +71,7 @@ description: 使用React.js, Express.js, PostgreSQL建構的現代化設計動�
 在動畫的主頁中，可以將動畫加入快速收藏清單中，或者是依據選單，加入自定義的清單中，如圖:
 ![Favorite1](/Team-Project/Anime-Helper/favorite1.png)
 而從首頁可以進到收藏清單的頁面，可以看到自己的各個收藏清單及動畫，並且連結到動畫的資訊頁面
-![Favorite2](/Team-Project/Anime-Helper/favorite2.png)
+![Favorite2](/Team-Project/Anime-Helper/favorite_c.png)
 
 ## Grading
 
