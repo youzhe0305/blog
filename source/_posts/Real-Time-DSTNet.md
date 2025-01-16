@@ -51,7 +51,7 @@ description: 改進CVPR 2023論文DSTNet，使其能做到Online Real Time Infer
 
 # Contribution
 
-我: paper survey、Real-Time DSTNet演算法撰寫、Demo系統撰寫
+**我: paper survey、Real-Time DSTNet演算法撰寫、Demo系統撰寫**
 組員1: paper survey、Real-Time DSTNet的參數測試、DSTNet實驗數據產出
 組員2: paper survey
 

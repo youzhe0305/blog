@@ -69,7 +69,7 @@ description: 利用RAG LLM製作有最新資料庫的論文搜索機器人
 
 # Contribution
 
-我: 關於LLM的全部工作，串接LLM與爬蟲、Discord Bot
+**我: 關於LLM的全部工作，串接LLM與爬蟲、Discord Bot**
 組員1: 製作爬蟲，爬取資料
 組員2: 製作Disocrd Bot介面
 

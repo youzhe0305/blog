@@ -46,7 +46,7 @@ SITCON CAMP 2021的黑客松作品，主題為Discord Bot的應用。
 
 # Contribution
 
-我: 負責爬蟲、RSS爬取新聞，並分出類別、tag，貢獻Discord Bot的部分介面
+**我: 負責爬蟲、RSS爬取新聞，並分出類別、tag，貢獻Discord Bot的部分介面**
 組員: 完成Discord Bot的介面
 
 # Ohter
