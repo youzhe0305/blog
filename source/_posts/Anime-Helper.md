@@ -96,5 +96,5 @@ description: 使用React.js, Express.js, PostgreSQL建構的現代化設計動�
 # Ohter
 
 本文僅簡單概述Project的部分成果，詳細的內容、分析詳見:
-https://github.com/youzhe0305/Intro-AI-Final-Project
+https://github.com/youzhe0305/Anime-Helper
 裡面有完整的程式碼，以及報告、簡報
