@@ -1,11 +1,11 @@
 - class_name: 友情鏈接
   class_desc: 朋朋們
   link_list:
-    - name: MDCPP OJ
-      link: http://mdcpp.mingdao.edu.tw/
-      avatar: /img/MDCPP_LOGO.png
-      descr: 高中社團MDCPP的OJ
     - name: CP Lab
       link: https://yulunalexliu.github.io/
       avatar: /img/National_Yang_Ming_Chiao_Tung_University.png
-      descr: 專題實驗室Computational Photography Lab
+      descr: 專題實驗室
+    - name: NYCU GDSC
+      link: https://www.instagram.com/gdsc__nycu/
+      avatar: /img/NYCU_GDSC.jpg
+      descr: Google Developer Student Clubs

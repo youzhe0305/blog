@@ -103,7 +103,8 @@ code_word_wrap: false # 自動換行，防止code有橫向滾動條
 highlight_height_limit: 200 # 200px的code高度限制，超過，則必須展開才看的到全部
 social:
   fab fa-github: https://github.com/youzhe0305 || Github || "#hdhfbb" # 支持 font-awesome v6 圖標.
-  fas fa-envelope: mailto:xxxxxx@gmail.com || Email || "#000000" # 圖標名：url || 描述性文字 || color
+  fas fa-envelope: mailto:youzhe0305@gmail.com || Email || "#000000" # 圖標名：url || 描述性文字 || color
+  fab fa-linkedin: https://www.linkedin.com/in/you-zhe-xie-6464682b3/ || LinkedIn || "#0077B5"
 avatar: # 頭像
   img: /img/icon.jpg
   effect: false # 頭像會一直轉圈

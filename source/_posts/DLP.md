@@ -16,7 +16,7 @@ tags:
     - Python
 categories:
     - Personal-Project
-cover: Personal-Project/DLP/DLP_course.png
+cover: Personal-Project/DLP/MaskGIT_result.png
 description: 深度學習課程(DLP)的作業，涵蓋手刻神經網路、CNN、VAE、Transformer、Diffusion...等技術。
 
 ---
