@@ -11,7 +11,7 @@ tags:
 categories:
     - Personal-Project
 cover: Personal-Project/Berkeley-CV/sift_box.png
-description: 改進CVPR 2023論文DSTNet，使其能做到Online Real Time Inference
+description: Berkeley Computer Vision作業的自主練習
 
 ---
 
